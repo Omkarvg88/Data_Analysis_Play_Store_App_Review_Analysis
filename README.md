@@ -1,7 +1,4 @@
-# Data_Analysis_Play_Store_App_Review_Analysis-EDA
 # EDA_Capstone_Project Play Store App Review Analysis
-![image](https://user-images.githubusercontent.com/98402439/204299141-c91de5d6-8a7c-424c-98af-94ed2f7e99cd.png)
-
 
 ## Problem Statement
 * What are the top categories on Play Store?
